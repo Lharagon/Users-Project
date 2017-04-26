@@ -1,0 +1,29 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+h1 {
+	padding: 30px 10px;
+	border-bottom: 2px solid black;
+	display: block;
+	width: 400px;
+	clear: both;
+}
+
+form {
+	width: 250px;
+	display: inline-block;
+	text-align: right;
+	margin-top: 30px;
+}
+
+th{
+	padding-right: 30px;
+	border-bottom: 2px solid black;
+
+}
+
+input[type="submit"] {
+	margin-top: 15px;
+}
